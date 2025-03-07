@@ -14,6 +14,7 @@ I am Felipe Sepúlveda, and I am currently in my second year of the Technical de
 Going to the gym 🏋️,
 Watching series🎬 and
 Watching sports 🏅
+- 🗨️ Reach out me at: pipexxto2000@gmail.com
 
 ## My Skills Include
 
