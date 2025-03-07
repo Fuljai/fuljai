@@ -43,3 +43,9 @@ Watching sports 🏅
 <a href="https://www.twitch.tv/fuljai">
   <img src="https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white">
 </a>
+
+<h2>Github stats:</h2> 
+
+[![](https://github-readme-stats.vercel.app/api?username=fuljai&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Fuljai)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=fuljai&theme=material-palenight)](https://github.com/Fuljai)
+</div>
