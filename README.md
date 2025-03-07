@@ -11,6 +11,6 @@ I am Felipe Sepúlveda, and I am currently in my second year of the Technical de
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
 - My hobbies are:
-Going to the gym 🏋️
-Watching series🎬
+Going to the gym 🏋️,
+Watching series🎬 and
 Watching sports 🏅
