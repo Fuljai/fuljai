@@ -1,4 +1,4 @@
-## Hola, soy Felipe Sepulveda
+## Hola, soy Felipe Sepulveda 👋
 
 <!--
 **Fuljai/fuljai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
