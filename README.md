@@ -6,8 +6,9 @@
 I am Felipe Sepúlveda, and I am currently in my second year of the Technical degree in Computer Science and Computing with a focus on Cybersecurity at CFT PUCV. For now, the languages I handle are Python, C, SQL databases, HTML, and CSS. I love to learn and build something new, productive, innovative and creative.
 * **I am interested in Web designing, Database, back- end developer**
 - 🌱 I’m currently learning ...
-  - Java
-  - React js
+  - PHP
+  - C#
+  - Kali
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
 - My hobbies are:
@@ -36,6 +37,11 @@ Watching sports 🏅
 <h4> Databases </h4>
 <span>
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+</span>
+
+<h4> Operating System </h4>
+<span>
+  <img src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white">
 </span>
 
 ## Check out my Social Media
