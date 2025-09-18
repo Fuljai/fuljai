@@ -6,8 +6,8 @@
 I am Felipe Sepúlveda, and I am currently in my second year of the Technical degree in Computer Science and Computing with a focus on Cybersecurity at CFT PUCV. For now, the languages I handle are Python, C, SQL databases, HTML, and CSS. I love to learn and build something new, productive, innovative and creative.
 * **I am interested in Web designing, Database, back- end developer**
 - 🌱 I’m currently learning ...
-  - PHP
-  - C#
+  - Java
+  - Bootstrap
   - Kali
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
