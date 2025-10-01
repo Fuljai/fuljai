@@ -47,6 +47,11 @@ Watching sports 🏅
   <img src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white">
 </span>
 
+<h4> Others </h4>
+<span>
+  <img src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)">
+</span>
+
 ## Check out my Social Media
 
 <a href ="https://www.instagram.com/pipe_sepulveda8/">
